@@ -1,3 +1,12 @@
+✨ How It Looks:
+
+![Screenshot 2024-02-11 185817](https://github.com/mxdxt09/Website-ReactJS/assets/83859258/3d316953-46bb-4842-87d1-5c122037c20f)
+
+![Screenshot 2024-02-11 185920](https://github.com/mxdxt09/Website-ReactJS/assets/83859258/1fd0a3bd-c7f9-49b1-85cc-c64f96790a00)
+
+![Screenshot 2024-02-11 185944](https://github.com/mxdxt09/Website-ReactJS/assets/83859258/0757467e-4117-4778-852e-6c31826def09)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
